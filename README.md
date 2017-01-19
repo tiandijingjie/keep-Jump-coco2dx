@@ -1,2 +1,2 @@
 # keep-Jump-coco2dx
-the game of jump and fine way out cocos2d-x version
+the game about jump and find way out in a maze (cocos2d-x version)
